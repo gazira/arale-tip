@@ -1,4 +1,4 @@
-var Popup = require('arale-popup');
+var Popup = require('popup');
 
 // 通用提示组件
 // 兼容站内各类样式
