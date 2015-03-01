@@ -4,6 +4,6 @@
     "main": "tip.js",
     "dependencies": {
         "component/jquery": "1.0.0",
-        "gazira/popup": "master"
+        "gazira/arale-popup": "1.2.0"
     }
 }
